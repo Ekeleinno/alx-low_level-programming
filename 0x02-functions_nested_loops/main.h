@@ -1,13 +1,12 @@
-#include <stdlib.h>
-#include <stdio.h>
+#ifndef MAIN_H
+#define MAIN_H
 
 /**
- * main - prototype function for putchar
+ * file - Header file
  *
- * Return: Always 0
+ * Desc: This file holds all prototype for this project
  */
 
-int _putchar(char i)
-{
-	return (putchar(i));
-}
+int _putchar(char i);
+
+#endif
