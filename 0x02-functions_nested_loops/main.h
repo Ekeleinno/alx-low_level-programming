@@ -7,6 +7,7 @@
  * Desc: This file holds all prototype for this project
  */
 
-int _putchar(char i);
+int _putchar(char c);
+void print_alphabet(void);
 
 #endif
