@@ -2,7 +2,7 @@
 /**
  * _isalpha - checks for alphabet characters
  *
- * @c - the variable
+ * @c:  the variable
  *
  * Return: 1 if true, 0 if false
  *

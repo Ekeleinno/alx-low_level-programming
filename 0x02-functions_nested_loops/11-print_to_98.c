@@ -5,6 +5,7 @@
 /**
  * print_to_98 - prints 0 to 98
  *
+ * @n: variable
  */
 void print_to_98(int n)
 {
